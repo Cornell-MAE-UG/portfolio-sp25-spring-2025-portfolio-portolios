@@ -1,70 +1,64 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: <Alexis Barrow> - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+
+**Email:** [amb662@cornell.edu](mailto:amb662@cornell.edu) | | | **Phone:** +201-540-6662
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in sustainability and aerospace. Passionate about quantum physics, aerospace, and sustainability, and eager to apply my knowledge in real-world applications.
 
 ---
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+   
+  | Graduation: May, 2027
 
-- **[High School Name]**  
-  *High School Diploma*  
-  Graduation: [Month, Year]
+- **[Ramsey High School]**  
+   
+  Graduation: [June, 2023]
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
+- **Software:** Autodesk Fusion 360, Autodesk Inventor  
 - **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Tools:** 3D Printing, Mill, Lathe  
 
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **[Multi-Tool brush]**:  
+   
+  - A multi-tool brush designed in my Introduction to Mechanical Synthesis class  
 
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+
+- **[Motor Mount]**:  
+
+  - Designed a motor mount for the drivetrain assembly of my project team, Cornell Electric Vehicles
+ 
 
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
-
----
-
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- **[Cornell Electric Vehicles] - Mechanical Subsystem member**  
+  [October, 2023] - [May, 2025]  
+  - Collaborate with a project team of 75+ members within Cornell with a goal of designing the world’s most energy-efficient electric vehicle that is level-2 autonomous 
+  - Use CAD software to design the motor and gearbox mount for the drivetrain system
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Social Chair of Delta Delta Delta
+- KTP Technical Fraternity
 
 ---
 
