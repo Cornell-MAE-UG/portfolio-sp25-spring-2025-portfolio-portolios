@@ -1,16 +1,19 @@
 ---
 layout: default
-title: <Your Name>
+title: Charles Wall-Davis
 ---
 
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/ProfessPic.JPEG" | relative_url }}){: class="profile-image"}
 
  
-My name is {{ site.name }}, and I am [your pitch paragraph about your passions, knowledge and interestst.] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+My name is Charles Wall-Davis. I’m from Virginia and I’m a junior studying Mechanical Engineering at Cornell University. I’m involved with the Cornell NSBE Chapter (National Society of Black Engineers) and MOCA (Men of Color in Athletics) as well as part of the Cornell Track and Field Team as a hurdler. I would consider myself a jack of all trades when it comes to what interests me. I'm an avid enjoyer of running, video game music, board games, anime, and graphic novels. I’m still exploring what I want to do career wise as mechanical engineering is a vast field but I have some interest in robotics, biomechanics, and product design.  
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+I’ve been running track since I was around 9 and have been through the many ups and downs of being a student-athlete. The teamwork, discipline, and self motivation are strengths I continue to carry with me throughout life. Managing time as a student athlete is also difficult but manageable and I always leave time to hang out with friends every once in a while for games or just chatting about anything. 
+
+I’ve previously interned at Dominion Energy as an engineering intern last summer. I worked with the Regional Operation Center and got to learn a lot about transmission line switching, grid planning, and nuclear work. The workplace helped me learn the value of safety and communication when it comes to working with multiple groups on a single project. It was an amazing opportunity to see and work with the mechanical applications of energy as well as exploring the electrical applications. 
+
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
