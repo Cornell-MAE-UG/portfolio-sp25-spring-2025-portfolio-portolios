@@ -6,7 +6,7 @@ title: Charles Wall-Davis
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/ProfessPic.JPEG" | relative_url }}){: class="profile-image"}
 
  
 My name is Charles Wall-Davis. I’m from Virginia and I’m a junior studying Mechanical Engineering at Cornell University. I’m involved with the Cornell NSBE Chapter (National Society of Black Engineers) and MOCA (Men of Color in Athletics) as well as part of the Cornell Track and Field Team as a hurdler. I would consider myself a jack of all trades when it comes to what interests me. I'm an avid enjoyer of running, video game music, board games, anime, and graphic novels. I’m still exploring what I want to do career wise as mechanical engineering is a vast field but I have some interest in robotics, biomechanics, and product design.  
