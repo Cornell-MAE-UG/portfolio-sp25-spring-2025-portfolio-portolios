@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Charles Wall-Davis - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Portfolio
+title: Charles Wall-Davis - Portfolio
 permalink: /projects/
 ---
 
